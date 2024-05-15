@@ -50,21 +50,21 @@ h3 {
 
 /* links */
 a {
-  color: #3561ae;
+  color: #02a6c1;
 }
 a:hover {
-  color: #52bbb7;
+  color: #633364;
   text-decoration: none;
 }
 footer a {
-  color: #e5e5e5;
+  color: #633364;
 }
 footer a:hover {
-  color: #52bbb7;
+  color: #02a6c1;
 }
 .btn {
   background-color: #1e2324;
-  color: #d29685;
+  color: #02a6c1;
   text-decoration: none;
   text-transform: uppercase;
   font-size: 1.2rem;
@@ -214,7 +214,7 @@ footer a:hover {
 --------------------------------------------------*/
 footer {
   background-color: #1e2324;
-  color: #d29685;
+  color: #9d3718;
   display: flex;
   justify-content: space-between;
   padding: 0 20px;
